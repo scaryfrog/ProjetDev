@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1stPackage</name>
+    </assembly>
+    <members>
+        <member name="M:_1stPackage.Program.Beep(System.Int32,System.Int32)">
+            <summary>
+            Permet de faire bipper
+            </summary>
+            <param name="frequence">Frequence en Hz</param>
+            <param name="duree">Duree en ms</param>
+        </member>
+    </members>
+</doc>

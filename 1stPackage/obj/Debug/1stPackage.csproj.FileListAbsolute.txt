@@ -1,0 +1,14 @@
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\PackageInfo.xml
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\1stPackage.exe.config
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\1stPackage.xml
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\1stPackage.exe
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\1stPackage.pdb
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Constellation.Common.dll
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Constellation.Common.xml
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\guill\source\repos\1stPackage\1stPackage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\source\repos\1stPackage\1stPackage\obj\Debug\1stPackage.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\1stPackage\1stPackage\obj\Debug\1stPackage.exe
+C:\Users\guill\source\repos\1stPackage\1stPackage\obj\Debug\1stPackage.pdb

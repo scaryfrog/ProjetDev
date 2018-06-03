@@ -1,0 +1,15 @@
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\PackageInfo.xml
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\myBrain.exe.config
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\myBrain.XML
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\myBrain.exe
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\myBrain.pdb
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Constellation.Common.dll
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Constellation.Common.xml
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\guill\source\repos\1stPackage\myBrain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guill\source\repos\1stPackage\myBrain\obj\Debug\myBrain.csprojResolveAssemblyReference.cache
+C:\Users\guill\source\repos\1stPackage\myBrain\obj\Debug\myBrain.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\1stPackage\myBrain\obj\Debug\myBrain.exe
+C:\Users\guill\source\repos\1stPackage\myBrain\obj\Debug\myBrain.pdb
